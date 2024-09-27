@@ -25,25 +25,14 @@ Make sure you have the following installed on your machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/coderooz/coderooz.git
+   git clone https://github.com/coderooz/simple-3js-projects.git
    ```
    
 2. Navigate to the project directory:
    ```bash
-   cd coderooz
+   cd simple-3js-projects
    ```
-
-3. Install dependencies (if applicable):
-   ```bash
-   npm install
-   ```
-
-4. Start a local server:
-   ```bash
-   npm start
-   ```
-
-5. Open your browser and navigate to `http://localhost:3000` (or the port specified) to view the projects.
+ Open your browser and navigate to `http://localhost:3000` (or the port specified) to view the projects.
 
 ## Usage
 
